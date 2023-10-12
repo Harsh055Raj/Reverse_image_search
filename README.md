@@ -13,4 +13,5 @@ Models used here are PCA(Principal Component Analysis) ,VGG16(Computer vision Mo
 #RESULT GENERATED 
 
 
-![Uploading Screenshot 2023-10-12 at 10.44.27 AM.png…]()
+
+<img width="948" alt="Screenshot 2023-10-12 at 10 54 02 AM" src="https://github.com/Harsh055Raj/Reverse_image_search/assets/95955195/89486974-65cd-4dbc-803a-a26d80c6e503">
